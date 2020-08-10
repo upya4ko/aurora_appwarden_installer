@@ -1,6 +1,6 @@
 id=aurora_appwarden_installer
-name=Aurora AppWarden Installer
-version=Ver: 1 
-versionCode=1
+name=Aurora AppWarden 1.0.3
+version=Ver: 1.0.3 
+versionCode=103
 author=Rahul Patel (@whyorean), McPcholkin
 description=Install Aurora AppWarden to system
